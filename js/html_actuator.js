@@ -49,7 +49,6 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
-    "치안총감",
   "순경", 
   "경장",
   "경사",
